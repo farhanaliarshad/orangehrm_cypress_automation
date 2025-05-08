@@ -3,8 +3,10 @@
 Automated end-to-end test suite for the [OrangeHRM](https://www.orangehrm.com/) open-source human resource management system using **Cypress**.
 
 ## 📌 Project Overview
-
-This project demonstrates automated UI testing of the OrangeHRM platform using Cypress. It includes login validation, dashboard verification, and test coverage for key HR features. Designed for learning, showcasing QA automation practices, and CI integration.
+- Automate critical workflows in OrangeHRM (e.g., login, user management, leave requests)
+- Demonstrate Cypress testing with Page Object Model (POM)
+- Provide a beginner-friendly structure for learning QA automation
+- Prepare for integration with CI/CD tools
 
 ## 📋 Planned Features
 ✅ Login test automation  
